@@ -55,7 +55,7 @@ To design a data-driven, interactive Power BI dashboard that helps AtliQ Hardwar
 ##  Resources
 
 -  [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVkYzRjMGYtMmMwYi00ZWU4LWE4MzctNWQ0ODAzYTViNDhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)   
--  [Project Walkthrough Video](https://app.powerbi.com/view?r=eyJrIjoiNWVkYzRjMGYtMmMwYi00ZWU4LWE4MzctNWQ0ODAzYTViNDhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+-  [Project Walkthrough Video](https://youtu.be/juLFZoH5_-g)  
 
 
 ---
