@@ -4,6 +4,14 @@ Welcome to **Business Insights 360**, a Power BI dashboard project created as pa
 
 ---
 
+
+
+##  Resources
+
+-  [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVkYzRjMGYtMmMwYi00ZWU4LWE4MzctNWQ0ODAzYTViNDhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)   
+-  [Project Walkthrough Video](https://youtu.be/juLFZoH5_-g)  
+---
+
 ##  Project Objective
 
 To design a data-driven, interactive Power BI dashboard that helps AtliQ Hardware's leadership team make better decisions by analyzing key operational, financial, and marketing metrics.
@@ -50,12 +58,6 @@ To design a data-driven, interactive Power BI dashboard that helps AtliQ Hardwar
 - Deep dive into U.S. segment to uncover loss drivers.
 - Promote PC category to secure market position.
 
----
-
-##  Resources
-
--  [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVkYzRjMGYtMmMwYi00ZWU4LWE4MzctNWQ0ODAzYTViNDhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)   
--  [Project Walkthrough Video](https://youtu.be/juLFZoH5_-g)  
 
 
 ---
